@@ -1,0 +1,131 @@
+18/12/2013 19:47:12 devpinoyLogger Hello
+18/12/2013 19:47:12 devpinoyLogger Properties loaded. Starting testing
+18/12/2013 19:47:12 devpinoyLogger Intialize Suite xlsx
+18/12/2013 19:47:12 devpinoyLogger Orders -- Y
+18/12/2013 19:47:12 devpinoyLogger ******Executing the Suite******Orders
+18/12/2013 19:47:12 devpinoyLogger Economy Orders -- Y
+18/12/2013 19:47:12 devpinoyLogger Executing the test case -> Economy Orders
+18/12/2013 19:47:12 devpinoyLogger Iteration number 1
+18/12/2013 19:47:12 devpinoyLogger navigate
+18/12/2013 19:47:12 devpinoyLogger Executing Navigate
+18/12/2013 19:47:22 devpinoyLogger Pass
+18/12/2013 19:47:22 devpinoyLogger clickButton
+18/12/2013 19:47:22 devpinoyLogger Clicking on Button
+18/12/2013 19:47:25 devpinoyLogger FAIL -- Not able to click on ButtonFor input string: "Mein_Login"
+18/12/2013 19:47:25 devpinoyLogger writeInInputframe
+18/12/2013 19:47:25 devpinoyLogger Writing in text box
+18/12/2013 19:47:25 devpinoyLogger PASS
+18/12/2013 19:47:25 devpinoyLogger writeInInput
+18/12/2013 19:47:25 devpinoyLogger Writing in text box
+18/12/2013 19:47:25 devpinoyLogger PASS
+18/12/2013 19:47:25 devpinoyLogger clickButton
+18/12/2013 19:47:25 devpinoyLogger Clicking on Button
+18/12/2013 19:47:25 devpinoyLogger FAIL -- Not able to click on ButtonFor input string: "Login_button"
+18/12/2013 19:47:26 devpinoyLogger clickIncontent
+18/12/2013 19:47:26 devpinoyLogger Writing in text box
+18/12/2013 19:47:43 devpinoyLogger PASS
+18/12/2013 19:47:43 devpinoyLogger clickIncontent
+18/12/2013 19:47:43 devpinoyLogger Writing in text box
+18/12/2013 19:47:45 devpinoyLogger PASS
+18/12/2013 19:47:45 devpinoyLogger clickIncontent
+18/12/2013 19:47:45 devpinoyLogger Writing in text box
+18/12/2013 19:47:49 devpinoyLogger PASS
+18/12/2013 19:47:53 devpinoyLogger Iteration number 2
+18/12/2013 19:47:53 devpinoyLogger navigate
+18/12/2013 19:47:53 devpinoyLogger Executing Navigate
+18/12/2013 19:47:53 devpinoyLogger Pass
+18/12/2013 19:47:53 devpinoyLogger clickButton
+18/12/2013 19:47:53 devpinoyLogger Clicking on Button
+18/12/2013 19:47:56 devpinoyLogger FAIL -- Not able to click on ButtonFor input string: "Mein_Login"
+18/12/2013 19:47:58 devpinoyLogger writeInInputframe
+18/12/2013 19:47:58 devpinoyLogger Writing in text box
+18/12/2013 19:47:58 devpinoyLogger PASS
+18/12/2013 19:47:58 devpinoyLogger writeInInput
+18/12/2013 19:47:58 devpinoyLogger Writing in text box
+18/12/2013 19:47:58 devpinoyLogger PASS
+18/12/2013 19:47:58 devpinoyLogger clickButton
+18/12/2013 19:47:58 devpinoyLogger Clicking on Button
+18/12/2013 19:47:58 devpinoyLogger FAIL -- Not able to click on ButtonFor input string: "Login_button"
+18/12/2013 19:47:59 devpinoyLogger clickIncontent
+18/12/2013 19:47:59 devpinoyLogger Writing in text box
+18/12/2013 19:48:02 devpinoyLogger PASS
+18/12/2013 19:48:02 devpinoyLogger clickIncontent
+18/12/2013 19:48:02 devpinoyLogger Writing in text box
+18/12/2013 19:48:32 devpinoyLogger FAIL Unable to write Unable to locate element: {"method":"xpath","selector":"//*[@id='content']/div[3]/div[2]/div/div[1]/div/a"}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.31.0', revision: '1bd294d', time: '2013-02-27 20:53:56'
+System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_34'
+Session ID: d29edc3a-a30c-4b07-a609-30d94e3a1037
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=25.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+18/12/2013 19:48:32 devpinoyLogger clickIncontent
+18/12/2013 19:48:32 devpinoyLogger Writing in text box
+18/12/2013 19:49:02 devpinoyLogger FAIL Unable to write Unable to locate element: {"method":"xpath","selector":"//*[@id='loginContext']/form/fieldset/button"}
+Command duration or timeout: 30.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.31.0', revision: '1bd294d', time: '2013-02-27 20:53:56'
+System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_34'
+Session ID: d29edc3a-a30c-4b07-a609-30d94e3a1037
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=25.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+18/12/2013 19:49:06 devpinoyLogger Technology orders  -- N
+18/12/2013 19:49:06 devpinoyLogger Technology and Economy orders  -- N
+18/12/2013 19:49:06 devpinoyLogger Search Suite -- Y
+18/12/2013 19:49:06 devpinoyLogger ******Executing the Suite******Search Suite
+18/12/2013 19:49:06 devpinoyLogger LoginTest -- Y
+18/12/2013 19:49:06 devpinoyLogger Executing the test case -> LoginTest
+18/12/2013 19:49:06 devpinoyLogger Iteration number 1
+18/12/2013 19:49:06 devpinoyLogger navigate
+18/12/2013 19:49:06 devpinoyLogger Executing Navigate
+18/12/2013 19:49:06 devpinoyLogger Pass
+18/12/2013 19:49:06 devpinoyLogger clickButton
+18/12/2013 19:49:06 devpinoyLogger Clicking on Button
+18/12/2013 19:49:37 devpinoyLogger FAIL -- Not able to click on ButtonUnable to locate element: {"method":"xpath","selector":"//*[@id='loginHomeButton']"}
+Command duration or timeout: 30.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.31.0', revision: '1bd294d', time: '2013-02-27 20:53:56'
+System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_34'
+Session ID: d29edc3a-a30c-4b07-a609-30d94e3a1037
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=25.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+18/12/2013 19:49:37 devpinoyLogger writeInInputframe
+18/12/2013 19:49:37 devpinoyLogger Writing in text box
+18/12/2013 19:49:37 devpinoyLogger PASS
+18/12/2013 19:49:37 devpinoyLogger writeInInput
+18/12/2013 19:49:37 devpinoyLogger Writing in text box
+18/12/2013 19:49:37 devpinoyLogger PASS
+18/12/2013 19:49:37 devpinoyLogger clickButton
+18/12/2013 19:49:37 devpinoyLogger Clicking on Button
+18/12/2013 19:49:37 devpinoyLogger FAIL -- Not able to click on ButtonFor input string: "Login_button"
+18/12/2013 19:49:38 devpinoyLogger clickButton
+18/12/2013 19:49:38 devpinoyLogger Clicking on Button
+18/12/2013 19:49:46 devpinoyLogger FAIL -- Not able to click on ButtonFor input string: "Logout_button"
+18/12/2013 19:49:50 devpinoyLogger Iteration number 2
+18/12/2013 19:49:50 devpinoyLogger navigate
+18/12/2013 19:49:50 devpinoyLogger Executing Navigate
+18/12/2013 19:49:50 devpinoyLogger Pass
+18/12/2013 19:49:50 devpinoyLogger clickButton
+18/12/2013 19:49:50 devpinoyLogger Clicking on Button
+18/12/2013 19:49:53 devpinoyLogger FAIL -- Not able to click on ButtonFor input string: "Mein_Login"
+18/12/2013 19:49:54 devpinoyLogger writeInInputframe
+18/12/2013 19:49:54 devpinoyLogger Writing in text box
+18/12/2013 19:49:54 devpinoyLogger PASS
+18/12/2013 19:49:54 devpinoyLogger writeInInput
+18/12/2013 19:49:54 devpinoyLogger Writing in text box
+18/12/2013 19:49:55 devpinoyLogger PASS
+18/12/2013 19:49:55 devpinoyLogger clickButton
+18/12/2013 19:49:55 devpinoyLogger Clicking on Button
+18/12/2013 19:49:55 devpinoyLogger FAIL -- Not able to click on ButtonFor input string: "Login_button"
+18/12/2013 19:49:55 devpinoyLogger clickButton
+18/12/2013 19:49:55 devpinoyLogger Clicking on Button
+18/12/2013 19:50:25 devpinoyLogger FAIL -- Not able to click on ButtonUnable to locate element: {"method":"xpath","selector":"//*[@id='loginContext']/form/fieldset/button"}
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.31.0', revision: '1bd294d', time: '2013-02-27 20:53:56'
+System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_34'
+Session ID: d29edc3a-a30c-4b07-a609-30d94e3a1037
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=25.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+18/12/2013 19:50:30 devpinoyLogger First3Results -- N
+18/12/2013 19:50:30 devpinoyLogger C Suite -- N

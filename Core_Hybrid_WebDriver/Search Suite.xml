@@ -1,0 +1,10 @@
+<suite name="Search Suite">
+
+<test name="LoginTest ">
+     
+    <classes>
+        <class name="com.qtpselenium.test.DriverScript" ></class>  
+    </classes>
+</test>
+
+</suite>

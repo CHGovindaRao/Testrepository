@@ -1,0 +1,12 @@
+<suite name="Orders">
+
+     <test name="Economy Orders">
+     
+                 
+                       <classes>
+                            <class name="com.qtpselenium.test.DriverScript"/>
+                       </classes>
+    </test>
+     
+</suite>
+

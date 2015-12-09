@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClientEnvironments>
+	<ClientEnvironment
+ 		dc.platform = "XP"
+ 		browsername="firefox"
+ 		remoteflag = "false"
+ 		host="ondemand.saucelabs.com"
+ 		port="80"
+		/>    
+		
+		<!-- 	 <ClientEnvironment
+      	dc.platform = "OS X 10.10"
+        dc.version="8.0"
+        dc.deviceName="iPhone Simulator"
+        dc.device-orientation="portrait"
+     	remoteflag = "true"
+     	host="ondemand.saucelabs.com"
+     	port="80"     
+     	username = "kapilaggarwal1"
+     	key = "4c8771f9-a178-4da5-8ef4-163956e56eae"
+        />
+         <ClientEnvironment
+     	 dc.platform = "Linux"
+        dc.version="4.2"
+        dc.deviceName="Samsung Galaxy S4 Emulator"
+        dc.device-orientation="portrait"
+     	remoteflag = "true"
+     	host="ondemand.saucelabs.com"
+     	port="80"     
+     	username = "kapilaggarwal1"
+     	key = "4c8771f9-a178-4da5-8ef4-163956e56eae"
+        /> -->
+</ClientEnvironments>
